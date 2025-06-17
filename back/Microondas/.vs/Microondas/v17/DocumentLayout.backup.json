@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\greis\\Desktop\\M\\back\\Microondas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{11CE7CFB-6900-4CF0-BA18-6488546A41F2}|Microondas.API\\Microondas.API.csproj|c:\\users\\greis\\desktop\\m\\back\\microondas\\microondas.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11CE7CFB-6900-4CF0-BA18-6488546A41F2}|Microondas.API\\Microondas.API.csproj|solutionrelative:microondas.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11CE7CFB-6900-4CF0-BA18-6488546A41F2}|Microondas.API\\Microondas.API.csproj|c:\\users\\greis\\desktop\\m\\back\\microondas\\microondas.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11CE7CFB-6900-4CF0-BA18-6488546A41F2}|Microondas.API\\Microondas.API.csproj|solutionrelative:microondas.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{11CE7CFB-6900-4CF0-BA18-6488546A41F2}|Microondas.API\\Microondas.API.csproj|c:\\users\\greis\\desktop\\m\\back\\microondas\\microondas.api\\microondas.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{11CE7CFB-6900-4CF0-BA18-6488546A41F2}|Microondas.API\\Microondas.API.csproj|solutionrelative:microondas.api\\microondas.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
@@ -19,6 +27,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\greis\\Desktop\\M\\back\\Microondas\\Microondas.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Microondas.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\greis\\Desktop\\M\\back\\Microondas\\Microondas.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Microondas.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T20:47:16.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\greis\\Desktop\\M\\back\\Microondas\\Microondas.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Microondas.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\greis\\Desktop\\M\\back\\Microondas\\Microondas.API\\appsettings.json",
+              "RelativeToolTip": "Microondas.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T20:46:48.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Microondas.API.csproj",
               "DocumentMoniker": "C:\\Users\\greis\\Desktop\\M\\back\\Microondas\\Microondas.API\\Microondas.API.csproj",
               "RelativeDocumentMoniker": "Microondas.API\\Microondas.API.csproj",
@@ -26,8 +59,7 @@
               "RelativeToolTip": "Microondas.API\\Microondas.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-06T14:26:54.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T14:26:54.756Z"
             }
           ]
         }
